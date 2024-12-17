@@ -1,0 +1,1 @@
+alert("welcome to sima web development course")
